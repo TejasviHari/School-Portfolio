@@ -1,0 +1,86 @@
+#move{
+    background-color: #D90368;
+    color: #00CC66;
+   font-size: 35px;
+    position: sticky;
+}
+
+h1{
+    text-align: center;
+    color: darkblue; 
+        
+}
+h2{
+    text-align: center;
+    color: deeppink;
+    font-size: 30px;
+}
+#home{
+    background-color: aquamarine;
+    
+}
+
+#contact{
+    background-color: coral;
+}
+#need{
+    text-align: center;
+    background-color: cornsilk;
+}
+
+.need-div {
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+    margin-left: 100;
+    margin-right: 100;
+        
+}
+
+.need-div img {
+    width: 50%;
+    margin-left: 340;
+}
+
+.need-div hr {
+    width: 230px;
+}
+
+.need-div h5,
+.need-div p {
+    margin-left: 20px;
+}
+
+#learn{
+     
+}
+
+
+.header_entrepreneur {
+    line-height: 2;
+}
+
+.book {
+    cursor: pointer;
+}
+
+.book hr {
+    margin-bottom: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center
+}
